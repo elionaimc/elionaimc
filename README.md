@@ -2,7 +2,7 @@
 
 > :alien: &nbsp;&nbsp;My name is Elionai Moura Cordeiro and I am a master bioinformatist and software analyst.
 
-> :rocket: &nbsp;&nbsp; I’m currently working on https://hubbi.app as senior web dev and at https://plus3d.app as founder and CEO.
+> :rocket: &nbsp;&nbsp; I’m currently working at https://plus3d.app.
 
 > :computer: &nbsp;&nbsp; I’m currently learning quantum computing, machine learning and Ionic framework
 
