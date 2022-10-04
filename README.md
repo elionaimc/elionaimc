@@ -2,7 +2,7 @@
 
 > :alien: &nbsp;&nbsp;My name is Elionai Moura Cordeiro and I am a master bioinformatist and software analyst.
 
-> :rocket: &nbsp;&nbsp; I’m currently working at https://plus3d.app.
+> :rocket: &nbsp;&nbsp; I’m currently working at https://jet.house | https://bioinfo3d.com | https://plus3d.app
 
 > :computer: &nbsp;&nbsp; I’m currently learning quantum computing, machine learning and Ionic framework
 
