@@ -1,9 +1,17 @@
-> :alien: &nbsp;&nbsp; My name is Elionai Moura Cordeiro and I am master bioinformatician and software analyst focused in mobile and web applications
+# My name is Elionai M. C.
 
-> :rocket: &nbsp;&nbsp; I’m currently looking for work opportunities in life science and/or machine learning fields
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:eli.embits@gmail.com)](mailto:eli.embits@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elionai)](https://www.linkedin.com/in/elionai)
 
-> :computer: &nbsp;&nbsp; I’m currently learning quantum computing, machine learning and web frameworks
+With 20 years of experience in web development and software consulting, I help businesses drive digital transformation through scalable, efficient, and purpose-driven technology solutions. I’m focused on delivering real value by aligning technical excellence with business strategy, promoting innovation and continuous improvement across teams and projects.
 
-> 💬  &nbsp;&nbsp; Ask me about web, programing languages, databases (SQL or non-relational), quantum computing and life science
+I provide services as a Senior Angular/Fullstack Developer, focusing on delivering scalable and high-performance solutions with:
+- Component-based architecture
+- Microservices and microfrontends
+- State management using NgRx
+- Integration with REST APIs and real-time services
+- Hybrid mobile development using Capacitor.js
+- Modern practices for testing, version control, and CI/CD
 
-> [![Gmail Badge](https://img.shields.io/badge/-eli.embits@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:eli.embits@gmail.com)](mailto:eli.embits@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Elionai-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elionai)](https://www.linkedin.com/in/elionai)
+## Tools and materials
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,r,python,js,typescript,angular,nestjs,nodejs,postman,docker,azure,bitbucket,github,mongodb,prisma,firebase,postgresql,mysql&perline=5)](https://skillicons.dev)
