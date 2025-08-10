@@ -14,4 +14,4 @@ I provide services as a Senior Angular/Fullstack Developer, focusing on deliveri
 
 ## Tools and materials
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,r,python,js,typescript,angular,nestjs,nodejs,postman,docker,azure,bitbucket,github,mongodb,prisma,firebase,postgresql,mysql&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,angular,nestjs,nodejs,php,r,python,postman,docker,azure,bitbucket,github,mongodb,prisma,firebase,postgresql,mysql&perline=5)](https://skillicons.dev)
